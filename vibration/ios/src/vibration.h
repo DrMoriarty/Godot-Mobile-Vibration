@@ -1,7 +1,7 @@
 #ifndef VIBRATION_H
 #define VIBRATION_H
 
-#include "reference.h"
+#include "core/reference.h"
 
 class Vibration : public Reference {
     GDCLASS(Vibration, Reference);
